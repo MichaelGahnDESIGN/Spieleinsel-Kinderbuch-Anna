@@ -13,7 +13,13 @@
 
 Willkommen in der öffentlichen Entwicklerdokumentation für **Gullivers Spieleinsel**. Die Plattform bietet liebevolle, ruhige Browser-Spiele für Familien mit Kindern von 3 bis 6 Jahren.
 
-Dieses Repository enthält den öffentlichen Entwicklungsvertrag, Beispiele und die Regeln für externe Spielideen. Es enthält **keinen** Produktionscode, keine Zugangsdaten, keine Kinder- oder Mediendaten und keine unveröffentlichten Spiele.
+Dieses Repository enthält den öffentlichen Entwicklungsvertrag, Beispiele und die Regeln für externe Spielideen. Es enthält bereinigte Spielcode-Ausschnitte als Entwicklerbeispiele. Es enthält **keinen** Plattformcode, keine Zugangsdaten, keine Kinder- oder Mediendaten und keine unveröffentlichten Spiele.
+
+## Öffentliche Spielbeispiele
+
+[Spielbeispiele ansehen](beispiele/README.md) · [API-Dokumentation](docs/api.md)
+
+Die Pakete enthalten ausgewählte lokale Mechaniken, keine komplette Plattform und keine Produktionsmedien. Die private Repository-Historie wurde nicht übernommen.
 
 ## Einstieg
 
